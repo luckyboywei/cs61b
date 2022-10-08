@@ -1,4 +1,4 @@
-public class ArrayDeque<Item> implements Deque<Item>{
+public class ArrayDeque<Item> implements Deque<Item> {
     /**
      * capactiy : actual size of array
      * size : number of the element in array
